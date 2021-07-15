@@ -36,7 +36,7 @@
     "request-promise": "^4.2.5",
     "sendmail": "^1.6.1",
     "sequelize": "^5.21.5",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "web-push": "^3.4.4",
     "file-system": "2.2.2",
     "ftp": "0.3.10"
